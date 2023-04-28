@@ -1,9 +1,9 @@
-package tdd.junit.service;
+package automacao.service;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 
-import tdd.junit.modelo.Funcionario;
+import automacao.modelo.Funcionario;
 
 public class BonusService {
 

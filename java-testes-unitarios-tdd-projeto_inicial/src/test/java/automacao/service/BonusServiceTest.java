@@ -1,8 +1,7 @@
-package tdd.junit.service;
+package automacao.service;
 
-import tdd.junit.modelo.Funcionario;
+import automacao.modelo.Funcionario;
 import org.junit.jupiter.api.Test;
-import tdd.junit.service.BonusService;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
